@@ -2,6 +2,7 @@
 # Bad UI Resume Form
 
 ## <b> A UI nightmare of a resume application form</b>
+Built by Javier Falca and Chris Sporski
 
 [Live Demo](https://jafalca.github.io/Falca-Sporski-BadUI/)
 
